@@ -1,5 +1,5 @@
 # Market-Basket-Analysis
-A method/technique of Data Analysis for retail and marketing purposes. This explores the customer's purchasing behavior.
+A method/technique of Data Analysis for retail and marketing purposes. This explores the customer's purchasing behaviour.
 This uncovers which items are bought frequently and together. This is a great way for effective sales and marketing and helps companies understand when and how much discount/sales needed to be drawn upon various items.
 The only condition for this analysis is that the items should be brought together in any transaction. 
 
